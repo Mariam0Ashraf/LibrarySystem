@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MainForm.resources
+C:\Users\PC\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.SignUpForm.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BookForm.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MainForm.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.SignUpForm.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.EditYourProfile.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BrowseForm.resources
+C:\Users\MARIAM\Downloads\LibrarySystem (1)\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.EditBook.resources
